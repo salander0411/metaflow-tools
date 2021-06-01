@@ -1,5 +1,8 @@
 ## Using This Template
 ---
+
+metaflow-cn.yml is used to launch in China regions.
+
 ### Overview
 
 This CloudFormation template deploys all the necessary infrastucture in AWS to support Metaflow's integration points and extend its capabilities into the Cloud.  A brief snapshot of its components are as follows:
